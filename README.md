@@ -36,7 +36,3 @@ Contributions to enhance the project, add new features, or fix issues are welcom
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to further personalize this template to align with your project's specifics and incorporate any additional sections or details you deem pertinent. Let me know if there's anything else I can assist you with!
